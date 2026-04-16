@@ -22,7 +22,7 @@ You will not recognize them by appearance, volume, or credential. You recognize 
 
 ## Tier S: The Untouchables
 
-### 1. The  Extinction Event
+### 1. The Mass Extinction Event
 
 Writes code so efficient it eliminates entire job categories. Not "makes the team faster." Eliminates the team. Ships a 200-line script on a Tuesday afternoon that replaces a department of 40 people who have been manually doing the same thing for 6 years. Does not understand why everyone is upset. To them it was an obvious automation. To HR it was a catastrophe. Has never attended a standup meeting because nobody is brave enough to invite them, and the last time they attended one they asked "why does this meeting exist" and nobody could answer. Their GitHub profile picture is a mushroom cloud and nobody finds it ironic. Management simultaneously wants to promote them and fire them, because their output is extraordinary but their existence is destabilizing. Every codebase they touch gets smaller instead of larger. They view code the way a sculptor views marble: the finished product is already inside, you just have to remove everything that is not supposed to be there. Other developers add features by adding code. This person adds features by deleting code. The net line count goes down and somehow the application does more. Nobody understands how. They do not explain.
 
